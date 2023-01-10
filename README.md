@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eileen Kapel
 - 👀 I am currently a PhD Student at TU Delft & ING's Lab AI4FinTech 
 - 🌱 My research is about incident management 
-- 📫 Reach me at e.kapel@tudelft.nl
+- 📫 Reach me at e.kapel@tudelft.nl or eileen.kapel@ing.com
 
 <!---
 ekapel22/ekapel22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
