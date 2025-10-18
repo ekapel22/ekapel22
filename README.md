@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eileen Kapel
-- 👀 I am currently a PhD Student at TU Delft & ING's Lab AI4FinTech 
-- 🌱 My research is about incident management 
+- 👀 I am a Data Scientist at ING and PhD Candidate at TU Delft & ING's Lab AI4FinTech
+- 🌱 My research is about incident management, change management and reliability
 - 📫 Reach me at e.kapel@tudelft.nl or eileen.kapel@ing.com
 
 <!---
